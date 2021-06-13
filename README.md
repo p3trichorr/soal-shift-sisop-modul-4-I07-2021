@@ -84,6 +84,17 @@ void decode(char *str)
 ```
 We must also make a log for every action that we make.
 
+#### Before Encoding
+![image](https://user-images.githubusercontent.com/68783399/121810208-18e2c500-cc8a-11eb-8743-d7f916d09d74.png)
+
+![image](https://user-images.githubusercontent.com/68783399/121810337-a2929280-cc8a-11eb-8798-a1e885b90a90.png)
+
+#### After Encoding
+![image](https://user-images.githubusercontent.com/68783399/121810163-e769f980-cc89-11eb-95f4-35d52508b366.png)
+
+![image](https://user-images.githubusercontent.com/68783399/121810178-fa7cc980-cc89-11eb-8235-1f022001210d.png)
+
+
 ## PROBLEM 2
 
 
@@ -135,3 +146,6 @@ void logs1(char *from, char *dest)
 }
 ```
 Therefore, with this functions the log message will be written in the log system
+
+#### Log Example
+![image](https://user-images.githubusercontent.com/68783399/121810382-e1284d00-cc8a-11eb-87fb-7510737ec938.png)
